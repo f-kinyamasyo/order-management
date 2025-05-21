@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\interfaces\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\interfaces\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\services\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\dtos\\orderanalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\dtos\\orderanalyticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\discountservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.tests\\ordersapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\ordersapitests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.tests\\webappfactorycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{189C60EC-AF76-4E5D-9E10-ABB155B009A7}|OrderManagement.Tests\\OrderManagement.Tests.csproj|solutionrelative:ordermanagement.tests\\webappfactorycollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|c:\\users\\fredrick\\source\\repos\\ordermanagement.api\\ordermanagement.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F10CAD2B-6732-4591-AB49-03B902508881}|OrderManagement.API\\OrderManagement.API.csproj|solutionrelative:ordermanagement.api\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Services\\DiscountService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Services\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Services\\DiscountService.cs",
+              "RelativeToolTip": "OrderManagement.API\\Services\\DiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:17:55.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Interfaces\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Interfaces\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Interfaces\\IDiscountService.cs",
+              "RelativeToolTip": "OrderManagement.API\\Interfaces\\IDiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:17:14.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderManagement.API\\Services\\OrderService.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:11:15.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderAnalyticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Dtos\\OrderAnalyticsDto.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Dtos\\OrderAnalyticsDto.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Dtos\\OrderAnalyticsDto.cs",
+              "RelativeToolTip": "OrderManagement.API\\Dtos\\OrderAnalyticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:10:08.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "OrderManagement.API\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:09:21.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebAppFactoryCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\WebAppFactoryCollection.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\WebAppFactoryCollection.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\WebAppFactoryCollection.cs",
+              "RelativeToolTip": "OrderManagement.Tests\\WebAppFactoryCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:42:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\CustomWebApplicationFactory.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "OrderManagement.Tests\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:41:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrdersApiTests.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\OrdersApiTests.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\OrdersApiTests.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\OrdersApiTests.cs",
+              "RelativeToolTip": "OrderManagement.Tests\\OrdersApiTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:35:49.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DiscountServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\DiscountServiceTests.cs",
+              "RelativeDocumentMoniker": "OrderManagement.Tests\\DiscountServiceTests.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.Tests\\DiscountServiceTests.cs",
+              "RelativeToolTip": "OrderManagement.Tests\\DiscountServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:34:45.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Program.cs",
+              "RelativeToolTip": "OrderManagement.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:27:29.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OrderManagement.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:26:29.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Models\\Order.cs",
+              "RelativeToolTip": "OrderManagement.API\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:19:01.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\appsettings.json",
+              "RelativeToolTip": "OrderManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T15:08:30.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "OrderManagement.API\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Fredrick\\source\\repos\\OrderManagement.API\\OrderManagement.API\\Models\\Customer.cs",
+              "RelativeToolTip": "OrderManagement.API\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:18:25.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
