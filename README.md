@@ -14,20 +14,19 @@ This is a modular and extensible **.NET 8 Web API** that manages customer orders
 
 ## Project Structure
 
-OrderManagement.API/            # Main Web API project
-│
-├── Controllers/                # API endpoints
-├── Services/                   # Core business logic (Discount, Status, Analytics)
-├── Interfaces/                 # Abstractions for DI
-├── Models/                     # Domain entities
-├── DTOs/                       # Data transfer objects
-├── Program.cs                  # Startup configuration
-└── OrderManagement.API.csproj  # API project file
+OrderManagement.API            # Main Web API project
+  - Controllers                # API endpoints
+  - Services                   # Core business logic (Discount, Status, Analytics)
+  - Interfaces                 # Abstractions for DI
+  - Models                     # Domain entities
+  - DTOs                       # Data transfer objects
+  - Program.cs                  # Startup configuration
+  - OrderManagement.API.csproj  # API project file
 
-OrderManagement.Tests/          # Test project
-├── OrdersApiTests.cs           # Integration tests using WebApplicationFactory
-├── DiscountServiceTests.cs     # Unit tests for discount logic
-└── OrderManagement.Tests.csproj
+OrderManagement.Tests          # Test project
+  - OrdersApiTests.cs           # Integration tests using WebApplicationFactory
+  - DiscountServiceTests.cs     # Unit tests for discount logic
+  - OrderManagement.Tests.csproj
 
 ## Features
 
