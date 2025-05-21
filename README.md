@@ -83,7 +83,7 @@ dotnet test OrderManagement.Tests
 ###  Try it out:
 
 dotnet run --project OrderManagement.API
-# Then open https://localhost:{port}/swagger in your browser
+# Then open https://localhost:7014/swagger/index.html in your browser
 
 ##  Performance Considerations
 
