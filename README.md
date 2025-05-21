@@ -102,10 +102,6 @@ dotnet run --project OrderManagement.API
   - Uses `System.Text.Json` with camelCase naming
   - Lightweight response payloads
 
-- **Async-ready Design**:
-  - Services support `Task`-based signatures for easy DB migration
-
----
 
 ## Build & Run
 git clone https://github.com/your-username/order-management-api.git
